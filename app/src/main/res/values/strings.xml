@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">grocery-app</string>
+    <string name="productName"></string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">User Info</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- UserInfo Preferences -->
+    <string name="signature_title">Your Name</string>
+
+</resources>
